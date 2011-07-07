@@ -6,5 +6,5 @@ Up to now, this is the result of our first Coding Dojo session about TDD done in
 
 Facilitated by 
 [Fernando](http://www.twitter.com/fdibartolo), 
-[Gaston](http://www.twitter.com/galgaze), 
+[Gaston](http://www.twitter.com/gastonalgaze), 
 [Santos](http://www.twitter.com/san983)
