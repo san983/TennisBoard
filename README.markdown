@@ -15,15 +15,15 @@ Two Players with their name
 Player points can be 0-15-30-40
 
 Board should display:
-<points player 1> - <points player 2>
-Tied in <points>
+_points player 1_ - _points player 2_
+Tied in _points_
 
-If Player makes a point while he has 40, he wins the game, and should display: "<playername> wins game"
+If Player makes a point while he has 40, he wins the game, and should display: "_playername_ wins game"
 If both Players have 40 points, show "Deuce"
 
-The next consecutive Player point, show: "Advantage <playername>"
+The next consecutive Player point, show: "Advantage _playername_"
 If same Player scores, show: "<playername> wins game"
-But if the other Player scores, instead show again: "Advantage <playername>"
+But if the other Player scores, instead show again: "Advantage _playername_"
 
 6 games makes a set
 If Players are 5 games each, should go to 7 games
